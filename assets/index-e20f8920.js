@@ -1,0 +1,1 @@
+import{d as a,r as i,a as n,o as r,c as l,w as c,b as _,u as p,i as f}from"./index-fbde766d.js";const b=a({__name:"index",setup(m){let e=i(!1);return(u,o)=>{const t=n("m-choose-icon");return r(),l(t,{title:"选择图标",visible:p(e),"onUpdate:visible":o[0]||(o[0]=s=>f(e)?e.value=s:e=s)},{default:c(()=>[_("选择图标")]),_:1},8,["visible"])}}});export{b as default};
